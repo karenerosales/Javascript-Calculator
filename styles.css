@@ -53,6 +53,7 @@ button {
     font-size: inherit;
     cursor: pointer;
     background-color: #edf2f4;
+    color:#222222
 }
 
 .clear {
