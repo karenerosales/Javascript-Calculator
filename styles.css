@@ -47,7 +47,7 @@ body {
 }
 
 button {
-    color:#222222 !important;
+    color:#222222;
     font-family: inherit;
     font-weight: inherit;
     border: 0;
@@ -58,7 +58,7 @@ button {
 
 .clear {
     background-image: linear-gradient(darkred, red);
-    color: white;
+    color:white;
 }
 
 .operator,
